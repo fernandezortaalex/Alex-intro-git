@@ -1,6 +1,6 @@
 HEAD
 
-Sois Parguela y MARICON
+Hola q ase
 
 taller-info
 Esto es lo que hay
